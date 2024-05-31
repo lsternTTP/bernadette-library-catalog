@@ -1,0 +1,25 @@
+ /* #all-requests-list {
+  width: 30vw;
+  border: 2px solid blue;
+}  */
+
+#resize-image{
+  width: 50%;
+  height: 50%;
+}
+
+#remove-button{
+  border-radius: 8px;
+  border: none;
+  width: 10vw;
+  margin-bottom: 10%;
+}
+
+.request-card{
+  display: flex;
+  flex-direction: column;
+  width: 20vw;
+  border: 2px solid blue;
+  padding: 5px;
+  margin: 5px;
+}

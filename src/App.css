@@ -1,0 +1,31 @@
+main {
+  background-color: white;
+  font-family: Georgia;
+}
+
+.top-nav {
+  background-color: lightblue;
+ /* float: left; */
+  
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  flex-direction: column;
+  color: white;
+  display: inline;
+  margin: 0;
+  padding: 0;
+   overflow: hidden;
+}
+
+/* li {
+  float: left;
+}
+ */
+
+#books-and-requests {
+  display: flex;
+  background: lightgray;
+}
